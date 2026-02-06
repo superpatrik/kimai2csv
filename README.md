@@ -168,6 +168,16 @@ duration, descriptions and total price.
 
 ---
 
+## Related
+
+This tool works with [Kimai](https://www.kimai.org/) —
+an open-source time tracking application.
+
+If you don’t know Kimai yet and you need a self-hosted time tracker,
+go check it out.
+
+---
+
 ## License
 
 This project is licensed under  
